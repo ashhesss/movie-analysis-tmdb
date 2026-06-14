@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Окружение и секреты
+.env
+*.key
+api_key.txt
+
+# OS
+.DS_Store
+Thumbs.db

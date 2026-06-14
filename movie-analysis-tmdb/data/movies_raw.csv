@@ -1,0 +1,601 @@
+id,title,release_date,budget,revenue,runtime,vote_average,vote_count,popularity,original_language,genres
+157336,Interstellar,2014-11-05,165000000,746606706,169,8.478,39980,70.5674,en,Adventure|Drama|Science Fiction
+27205,Inception,2010-07-15,160000000,839030630,148,8.372,39341,32.9299,en,Action|Science Fiction|Adventure
+24428,The Avengers,2012-04-25,220000000,1518815515,143,8.041,38290,48.7979,en,Science Fiction|Action|Adventure
+155,The Dark Knight,2008-07-16,185000000,1004558444,152,8.5,35875,41.699,en,Action|Crime|Thriller
+19995,Avatar,2009-12-16,237000000,2923706026,162,7.606,34043,43.0569,en,Science Fiction|Action|Adventure
+293660,Deadpool,2016-02-09,58000000,782837347,108,7.624,32776,17.3905,en,Action|Adventure|Comedy
+550,Fight Club,1999-10-15,63000000,100853753,139,8.4,32126,27.8778,en,Drama|Thriller
+299536,Avengers: Infinity War,2018-04-25,300000000,2052415039,149,8.2,32080,49.9642,en,Adventure|Action|Science Fiction
+278,The Shawshank Redemption,1994-09-23,25000000,28341469,142,8.722,30531,90.5775,en,Drama|Crime
+680,Pulp Fiction,1994-09-10,8000000,213928762,154,8.483,30263,31.8224,en,Thriller|Crime|Comedy
+13,Forrest Gump,1994-06-23,55000000,677387716,142,8.465,29818,28.8368,en,Comedy|Drama|Romance
+118340,Guardians of the Galaxy,2014-07-30,170000000,772776600,121,7.906,29754,8.4339,en,Action|Science Fiction|Adventure
+671,Harry Potter and the Philosopher's Stone,2001-11-16,125000000,976475550,152,7.899,29626,39.7358,en,Adventure|Fantasy
+1726,Iron Man,2008-04-30,140000000,585174222,126,7.661,28178,21.1562,en,Action|Science Fiction|Adventure
+68718,Django Unchained,2012-12-25,100000000,425368238,165,8.192,28072,12.7203,en,Drama|Western
+603,The Matrix,1999-03-31,63000000,463517383,136,8.247,27993,53.8159,en,Action|Science Fiction
+299534,Avengers: Endgame,2019-04-24,356000000,2799439100,181,8.237,27814,32.3524,en,Adventure|Science Fiction|Action
+475557,Joker,2019-10-01,55000000,1078958629,122,8.125,27762,17.3154,en,Crime|Thriller|Drama
+120,The Lord of the Rings: The Fellowship of the Ring,2001-12-18,93000000,871368364,179,8.434,27637,39.1305,en,Adventure|Fantasy|Action
+597,Titanic,1997-12-18,200000000,2264162353,194,7.903,27206,31.4964,en,Drama|Romance
+122,The Lord of the Rings: The Return of the King,2003-12-17,94000000,1118888979,201,8.499,26626,45.3962,en,Adventure|Fantasy|Action
+106646,The Wolf of Wall Street,2013-12-25,100000000,407038432,180,8.028,25959,21.1079,en,Crime|Drama|Comedy
+11324,Shutter Island,2010-02-14,80000000,294804195,138,8.198,25881,15.9484,en,Drama|Thriller|Mystery
+99861,Avengers: Age of Ultron,2015-04-22,235000000,1405403694,141,7.3,24467,20.3266,en,Action|Adventure|Science Fiction
+49026,The Dark Knight Rises,2012-07-17,250000000,1081041287,165,7.795,24399,16.9326,en,Action|Crime|Drama|Thriller
+16869,Inglourious Basterds,2009-08-02,70000000,321457747,153,8.218,24217,16.6003,en,Drama|Thriller|War
+76341,Mad Max: Fury Road,2015-05-13,150000000,378858340,121,7.634,24111,16.827,en,Action|Adventure|Science Fiction
+271110,Captain America: Civil War,2016-04-27,250000000,1155046416,147,7.448,24064,17.1236,en,Adventure|Action|Science Fiction
+121,The Lord of the Rings: The Two Towers,2002-12-18,79000000,926287400,179,8.42,23952,29.9526,en,Adventure|Fantasy|Action
+672,Harry Potter and the Chamber of Secrets,2002-11-13,100000000,876688482,161,7.7,23614,31.3522,en,Adventure|Fantasy
+284054,Black Panther,2018-02-13,200000000,1349926083,135,7.364,23515,16.2631,en,Action|Adventure|Science Fiction
+150540,Inside Out,2015-06-17,175000000,857611174,95,7.909,23484,24.4459,en,Animation|Family|Adventure|Drama|Comedy
+284052,Doctor Strange,2016-10-25,180000000,676343174,115,7.4,23454,11.1184,en,Fantasy|Adventure|Action
+68721,Iron Man 3,2013-04-18,200000000,1215577205,130,6.934,23451,19.6724,en,Action|Adventure|Science Fiction
+70160,The Hunger Games,2012-03-12,75000000,694000000,142,7.2,23319,6.5816,en,Science Fiction|Adventure|Action|Thriller
+315635,Spider-Man: Homecoming,2017-07-05,175000000,880978185,133,7.331,23199,26.7163,en,Action|Adventure|Science Fiction
+673,Harry Potter and the Prisoner of Azkaban,2004-05-31,130000000,789804554,141,8.008,23188,33.2268,en,Adventure|Fantasy
+807,Se7en,1995-09-22,33000000,327311859,127,8.382,23136,27.0117,en,Crime|Mystery|Thriller
+238,The Godfather,1972-03-14,6000000,245066411,175,8.687,23017,44.29,en,Drama|Crime
+283995,Guardians of the Galaxy Vol. 2,2017-04-25,200000000,863756051,137,7.61,22965,11.6912,en,Science Fiction|Adventure|Action
+1771,Captain America: The First Avenger,2011-07-22,140000000,370569774,124,7.008,22754,8.4469,en,Action|Adventure|Science Fiction
+272,Batman Begins,2005-06-10,150000000,374218673,140,7.7,22645,16.1041,en,Drama|Crime|Action
+10138,Iron Man 2,2010-04-28,200000000,623933331,124,6.9,22415,24.9449,en,Adventure|Action|Science Fiction
+11,Star Wars,1977-05-25,11000000,775398007,121,8.205,22377,25.6342,en,Adventure|Action|Science Fiction
+10195,Thor,2011-04-21,150000000,449326618,115,6.771,22366,12.4759,en,Adventure|Fantasy|Action
+22,Pirates of the Caribbean: The Curse of the Black Pearl,2003-07-09,140000000,655011224,143,7.826,22281,25.2381,en,Adventure|Fantasy|Action
+674,Harry Potter and the Goblet of Fire,2005-11-16,150000000,895921036,157,7.803,22198,32.9578,en,Adventure|Fantasy
+297761,Suicide Squad,2016-08-03,175000000,749200054,122,5.916,22113,7.2293,en,Action|Adventure|Fantasy
+634649,Spider-Man: No Way Home,2021-12-15,200000000,2019206586,148,7.933,22048,39.833,en,Action|Adventure|Science Fiction
+284053,Thor: Ragnarok,2017-10-02,180000000,855301806,131,7.6,22042,17.0988,en,Action|Science Fiction|Comedy
+12445,Harry Potter and the Deathly Hallows: Part 2,2011-07-12,125000000,1341511219,130,8.08,22010,19.5854,en,Adventure|Fantasy
+105,Back to the Future,1985-07-03,19000000,381109762,116,8.326,21850,19.6975,en,Adventure|Comedy|Science Fiction
+14160,Up,2009-05-28,175000000,735103954,96,7.961,21688,16.2257,en,Animation|Comedy|Family|Adventure
+135397,Jurassic World,2015-06-06,150000000,1671537444,124,6.701,21601,12.3475,en,Adventure|Science Fiction|Thriller
+286217,The Martian,2015-09-30,108000000,631058917,141,7.7,21253,13.9025,en,Science Fiction|Drama|Adventure
+354912,Coco,2017-10-27,175000000,814641172,105,8.198,21002,21.189,en,Family|Animation|Music|Adventure
+98,Gladiator,2000-05-04,103000000,465516248,155,8.227,20938,20.1894,en,Action|Drama|Adventure
+297762,Wonder Woman,2017-05-30,149000000,823970682,141,7.209,20920,11.125,en,Action|Adventure|Fantasy
+102899,Ant-Man,2015-07-14,130000000,519311965,117,7.066,20880,11.791,en,Science Fiction|Adventure|Action
+245891,John Wick,2014-10-16,20000000,86085191,101,7.458,20880,13.9075,en,Action|Thriller
+675,Harry Potter and the Order of the Phoenix,2007-07-08,150000000,938212738,138,7.7,20826,26.7553,en,Adventure|Fantasy
+767,Harry Potter and the Half-Blood Prince,2009-07-15,250000000,933959197,153,7.68,20812,25.0459,en,Adventure|Fantasy
+496243,Parasite,2019-05-30,11363000,257591776,133,8.494,20706,36.4975,ko,Comedy|Thriller|Drama
+557,Spider-Man,2002-05-01,139000000,821708551,121,7.331,20705,26.3458,en,Action|Science Fiction
+12,Finding Nemo,2003-05-30,94000000,940335536,100,7.819,20581,18.7548,en,Animation|Family|Adventure
+140607,Star Wars: The Force Awakens,2015-12-15,245000000,2068223624,136,7.248,20563,10.7131,en,Adventure|Action|Science Fiction
+263115,Logan,2017-02-28,97000000,619021436,137,7.82,20418,14.5335,en,Action|Drama|Science Fiction
+12444,Harry Potter and the Deathly Hallows: Part 1,2010-11-17,250000000,954305868,146,7.734,20403,18.55,en,Adventure|Fantasy
+346364,It,2017-09-06,35000000,719766009,135,7.241,20344,10.5849,en,Horror|Thriller|Drama
+10681,WALL·E,2008-06-26,180000000,521311860,98,8.113,20322,23.63,en,Animation|Family|Science Fiction
+37165,The Truman Show,1998-06-04,60000000,264118712,103,8.153,20268,21.4471,en,Comedy|Drama
+100402,Captain America: The Winter Soldier,2014-03-20,170000000,714766572,136,7.655,20033,8.1161,en,Action|Adventure|Science Fiction
+210577,Gone Girl,2014-10-01,61000000,370890259,149,7.9,19996,16.9429,en,Mystery|Thriller|Drama
+862,Toy Story,1995-11-22,30000000,401157969,81,7.976,19928,41.375,en,Family|Comedy|Animation|Adventure
+585,"Monsters, Inc.",2001-11-01,115000000,579700000,92,7.851,19808,24.4338,en,Animation|Comedy|Family|Fantasy
+8587,The Lion King,1994-06-15,45000000,763455561,89,8.254,19717,27.6576,en,Animation|Family|Drama
+259316,Fantastic Beasts and Where to Find Them,2016-11-16,180000000,809342332,133,7.3,19715,13.9305,en,Fantasy|Adventure
+49051,The Hobbit: An Unexpected Journey,2012-12-12,250000000,1021103568,169,7.375,19662,16.7186,en,Adventure|Fantasy|Action
+329865,Arrival,2016-11-10,47000000,203388186,116,7.627,19385,14.188,en,Drama|Science Fiction|Mystery
+281957,The Revenant,2015-12-25,135000000,532950503,157,7.541,19338,10.7614,en,Western|Drama|Adventure
+497,The Green Mile,1999-12-10,60000000,286801374,189,8.507,19311,27.2486,en,Fantasy|Drama|Crime
+383498,Deadpool 2,2018-05-15,110000000,785896632,120,7.491,19246,14.4321,en,Action|Comedy|Adventure
+209112,Batman v Superman: Dawn of Justice,2016-03-23,250000000,874362803,152,6.001,19014,17.3541,en,Action|Adventure|Fantasy
+24,Kill Bill: Vol. 1,2003-10-10,30000000,180906076,111,8.0,18978,11.8595,en,Action|Crime
+694,The Shining,1980-05-23,19000000,44781695,144,8.2,18955,16.4584,en,Horror|Thriller
+9806,The Incredibles,2004-10-27,92000000,631442092,115,7.726,18917,17.6034,en,Action|Adventure|Animation|Family
+419430,Get Out,2017-02-24,4500000,255407969,104,7.623,18913,13.9792,en,Mystery|Thriller|Horror
+808,Shrek,2001-05-18,60000000,488977919,90,7.764,18802,28.7402,en,Animation|Comedy|Fantasy|Adventure|Family
+1930,The Amazing Spider-Man,2012-06-23,215000000,758725893,136,6.738,18539,15.9821,en,Action|Adventure|Science Fiction
+2062,Ratatouille,2007-06-28,150000000,623726000,111,7.842,18507,19.2564,en,Animation|Comedy|Family|Fantasy
+101299,The Hunger Games: Catching Fire,2013-11-15,130000000,865011746,146,7.427,18459,8.2492,en,Adventure|Action|Science Fiction
+77338,The Intouchables,2011-11-02,13000000,426590315,113,8.3,18453,22.6255,fr,Drama|Comedy
+1891,The Empire Strikes Back,1980-05-20,18000000,538400000,124,8.392,18451,12.8521,en,Adventure|Action|Science Fiction
+129,Spirited Away,2001-07-20,19000000,274925095,125,8.535,18390,32.6243,ja,Animation|Family|Fantasy
+76338,Thor: The Dark World,2013-10-30,170000000,644783140,112,6.5,18348,11.197,en,Action|Adventure|Fantasy
+381288,Split,2017-01-19,9000000,278454358,117,7.3,18335,9.1248,en,Horror|Thriller
+269149,Zootopia,2016-02-11,150000000,1025521689,109,7.763,18139,23.4914,en,Animation|Adventure|Family|Comedy
+313369,La La Land,2016-12-01,30000000,509183536,129,7.9,18134,12.1964,en,Comedy|Drama|Romance
+198663,The Maze Runner,2014-09-10,34000000,348319861,113,7.2,18126,18.3354,en,Action|Mystery|Science Fiction|Thriller
+18785,The Hangover,2009-06-02,35000000,469310836,100,7.332,18116,17.7823,en,Comedy
+205596,The Imitation Game,2014-11-14,14000000,233555708,113,7.984,18096,12.0106,en,History|Drama|Thriller|War
+274,The Silence of the Lambs,1991-02-14,19000000,272742922,119,8.345,18021,4.6207,en,Crime|Thriller|Drama
+329,Jurassic Park,1993-06-11,63000000,920100000,127,7.969,17896,9.2938,en,Adventure|Science Fiction
+207703,Kingsman: The Secret Service,2015-01-24,81000000,414351546,129,7.62,17837,10.0426,en,Crime|Comedy|Action|Adventure
+424694,Bohemian Rhapsody,2018-10-24,52000000,910813521,135,7.958,17794,8.3217,en,Music|Drama
+1124,The Prestige,2006-10-19,40000000,109676311,130,8.208,17617,13.6104,en,Drama|Mystery|Science Fiction
+109445,Frozen,2013-11-20,150000000,1274219009,102,7.249,17590,18.8532,en,Animation|Family|Adventure|Fantasy
+374720,Dunkirk,2017-07-19,150000000,549136737,107,7.452,17585,8.7376,en,War|Action|Drama
+424,Schindler's List,1993-12-15,22000000,321365567,195,8.569,17503,26.048,en,Drama|History|War
+324857,Spider-Man: Into the Spider-Verse,2018-12-06,90000000,394884133,117,8.393,17279,25.4417,en,Animation|Action|Adventure|Science Fiction
+857,Saving Private Ryan,1998-07-24,70000000,481840909,169,8.227,17275,16.8832,en,War|Drama|History
+335983,Venom,2018-09-28,116000000,856085151,112,6.827,17254,9.9591,en,Science Fiction|Action
+58,Pirates of the Caribbean: Dead Man's Chest,2006-07-06,200000000,1066179747,151,7.381,17196,23.5302,en,Adventure|Fantasy|Action
+640,Catch Me If You Can,2002-12-16,52000000,352114312,141,7.979,17131,15.6527,en,Drama|Crime
+240832,Lucy,2014-07-25,40000000,469058574,89,6.475,17090,10.8343,en,Action|Science Fiction
+429617,Spider-Man: Far From Home,2019-06-28,160000000,1132723226,129,7.396,16982,22.3821,en,Action|Adventure|Science Fiction
+1892,Return of the Jedi,1983-05-25,32350000,572700000,132,7.909,16961,9.1582,en,Adventure|Action|Science Fiction
+333339,Ready Player One,2018-03-28,175000000,607274134,140,7.589,16952,11.8712,en,Adventure|Action|Science Fiction
+6479,I Am Legend,2007-12-12,150000000,585410052,101,7.216,16863,11.8447,en,Drama|Science Fiction|Thriller
+339403,Baby Driver,2017-06-28,34000000,226945087,113,7.444,16853,12.374,en,Action|Crime
+75656,Now You See Me,2013-05-29,75000000,351723989,116,7.331,16808,9.6687,en,Thriller|Crime
+299537,Captain Marvel,2019-03-06,152000000,1131416446,124,6.782,16767,11.6394,en,Action|Adventure|Science Fiction
+131631,The Hunger Games: Mockingjay - Part 1,2014-11-19,125000000,755356711,123,6.818,16741,9.9793,en,Science Fiction|Adventure|Thriller
+244786,Whiplash,2014-10-10,3300000,50307484,107,8.375,16655,25.0535,en,Drama|Music|Thriller
+177572,Big Hero 6,2014-10-24,165000000,657870525,102,7.724,16605,19.5763,en,Adventure|Family|Animation|Action|Comedy
+72190,World War Z,2013-06-19,200000000,531865000,116,6.837,16604,18.2355,en,Action|Horror|Science Fiction
+330459,Rogue One: A Star Wars Story,2016-12-14,200000000,1056057273,133,7.507,16432,11.4218,en,Action|Adventure|Science Fiction
+348,Alien,1979-05-25,11000000,104931801,117,8.17,16415,19.6063,en,Horror|Science Fiction
+558,Spider-Man 2,2004-06-25,200000000,788976453,127,7.31,16385,7.8234,en,Action|Adventure|Science Fiction
+38,Eternal Sunshine of the Spotless Mind,2004-03-19,20000000,72258126,108,8.1,16363,19.0004,en,Science Fiction|Drama|Romance
+49047,Gravity,2013-10-03,105000000,723192705,91,7.169,16359,5.6735,en,Science Fiction|Thriller|Drama
+181808,Star Wars: The Last Jedi,2017-12-13,300000000,1334407706,152,6.75,16355,20.4871,en,Adventure|Action|Science Fiction
+77,Memento,2000-10-11,9000000,40060108,113,8.176,16281,25.6106,en,Mystery|Thriller
+127585,X-Men: Days of Future Past,2014-05-15,250000000,748045700,132,7.531,16273,11.8501,en,Action|Adventure|Science Fiction
+1422,The Departed,2006-10-04,90000000,291465000,151,8.2,16231,11.8319,en,Drama|Thriller|Crime
+49521,Man of Steel,2013-06-12,225000000,668045518,143,6.651,16225,16.4766,en,Action|Adventure|Science Fiction
+37724,Skyfall,2012-10-24,200000000,1108594176,143,7.262,16143,8.1584,en,Action|Adventure|Thriller
+101,Léon: The Professional,1994-09-14,16000000,45284974,111,8.3,16143,16.2172,fr,Crime|Drama|Action
+118,Charlie and the Chocolate Factory,2005-07-13,150000000,475000000,115,7.039,16132,13.9974,en,Adventure|Comedy|Family|Fantasy
+120467,The Grand Budapest Hotel,2014-02-26,30000000,174600318,100,8.0,16117,9.4295,en,Comedy|Drama
+20352,Despicable Me,2010-07-08,69000000,543284256,95,7.258,16065,17.9107,en,Animation|Comedy|Crime|Family|Science Fiction
+321612,Beauty and the Beast,2017-03-16,160000000,1266115964,129,6.968,16009,11.4525,en,Family|Fantasy|Romance
+1893,Star Wars: Episode I - The Phantom Menace,1999-05-19,115000000,1046515409,136,6.6,15860,11.1042,en,Adventure|Action|Science Fiction
+10193,Toy Story 3,2010-06-16,200000000,1067316101,102,7.8,15750,26.1499,en,Animation|Family|Comedy
+752,V for Vendetta,2006-02-23,54000000,134686457,132,7.9,15579,7.5354,en,Action|Thriller|Science Fiction
+44214,Black Swan,2010-12-03,13000000,329398046,108,7.7,15575,7.9494,en,Drama|Thriller|Horror
+285,Pirates of the Caribbean: At World's End,2007-05-19,300000000,961691209,169,7.272,15483,17.3744,en,Adventure|Fantasy|Action
+500,Reservoir Dogs,1992-09-02,1200000,2859750,99,8.115,15477,7.6954,en,Crime|Thriller
+122917,The Hobbit: The Battle of the Five Armies,2014-12-10,250000000,956019788,144,7.334,15385,19.3421,en,Action|Adventure|Fantasy
+447332,A Quiet Place,2018-04-03,17000000,340955294,91,7.392,15366,10.4146,en,Horror|Drama|Science Fiction
+152601,Her,2013-12-18,23000000,47351251,126,7.8,15316,8.0909,en,Romance|Science Fiction|Drama
+273248,The Hateful Eight,2015-12-25,44000000,155760117,188,7.756,15298,10.1033,en,Drama|Mystery|Western
+559,Spider-Man 3,2007-05-01,258000000,894983373,139,6.5,15240,18.5817,en,Action|Adventure|Science Fiction
+335984,Blade Runner 2049,2017-10-04,150000000,259239658,164,7.596,15168,21.826,en,Science Fiction|Drama
+920,Cars,2006-06-08,120000000,461983149,117,7.032,15128,14.5689,en,Animation|Adventure|Comedy|Family
+137113,Edge of Tomorrow,2014-05-27,178000000,370541256,114,7.639,15095,10.8364,en,Action|Science Fiction
+393,Kill Bill: Vol. 2,2004-04-16,30000000,152159461,136,7.878,15092,8.8513,en,Action|Crime|Thriller
+78,Blade Runner,1982-06-25,28000000,41722424,118,7.938,15012,11.5894,en,Science Fiction|Drama|Thriller
+1865,Pirates of the Caribbean: On Stranger Tides,2011-05-15,379000000,1046721266,136,6.6,14972,18.2435,en,Adventure|Action|Fantasy
+1895,Star Wars: Episode III - Revenge of the Sith,2005-05-17,113000000,850000000,140,7.5,14964,11.4886,en,Adventure|Action|Science Fiction
+438631,Dune,2021-09-15,165000000,410668500,155,7.78,14943,24.0945,en,Science Fiction|Adventure
+297802,Aquaman,2018-12-07,160000000,1152028393,143,6.868,14921,12.032,en,Action|Adventure|Fantasy
+863,Toy Story 2,1999-10-30,90000000,497375404,92,7.608,14917,27.1086,en,Animation|Comedy|Family
+324786,Hacksaw Ridge,2016-10-07,40000000,175302354,139,8.19,14874,17.0922,en,Drama|History|War
+466272,Once Upon a Time... in Hollywood,2019-07-24,95000000,393869691,162,7.422,14871,14.2529,en,Comedy|Drama|Thriller
+607,Men in Black,1997-07-02,90000000,589390539,98,7.223,14861,11.2553,en,Action|Adventure|Comedy|Science Fiction
+12155,Alice in Wonderland,2010-03-03,200000000,1025467110,108,6.642,14818,12.9801,en,Family|Fantasy|Adventure
+10528,Sherlock Holmes,2009-12-23,90000000,524028679,129,7.221,14782,7.8604,en,Adventure|Crime|Mystery
+1271,300,2007-03-07,65000000,456082343,117,7.201,14743,9.9488,en,Action|Adventure|War
+218,The Terminator,1984-10-26,6400000,78371200,108,7.683,14639,19.9871,en,Action|Thriller|Science Fiction
+353486,Jumanji: Welcome to the Jungle,2017-12-09,90000000,995339117,119,6.82,14509,10.2829,en,Adventure|Comedy|Fantasy|Action
+8966,Twilight,2008-11-20,37000000,393616788,122,6.282,14418,18.53,en,Fantasy|Drama|Romance
+769,GoodFellas,1990-09-12,25000000,47072327,145,8.454,14398,28.2166,en,Drama|Crime
+10191,How to Train Your Dragon,2010-03-18,165000000,495141736,98,7.86,14383,13.4771,en,Fantasy|Adventure|Animation|Family
+1894,Star Wars: Episode II - Attack of the Clones,2002-05-15,120000000,649398328,142,6.595,14367,8.469,en,Adventure|Action|Science Fiction
+280,Terminator 2: Judgment Day,1991-07-03,102000000,517778573,137,8.151,14328,18.6187,en,Action|Thriller|Science Fiction
+425,Ice Age,2002-03-14,59000000,383257136,82,7.376,14311,19.9166,en,Animation|Comedy|Family|Adventure
+264660,Ex Machina,2015-01-21,15000000,36869414,108,7.573,14278,7.3117,en,Drama|Science Fiction
+324552,John Wick: Chapter 2,2017-02-08,40000000,171539887,122,7.339,14275,12.6072,en,Action|Thriller|Crime
+102382,The Amazing Spider-Man 2,2014-04-16,200000000,716934779,141,6.541,14258,15.6632,en,Action|Adventure|Science Fiction
+274870,Passengers,2016-12-21,110000000,303144152,116,6.955,14243,5.8332,en,Drama|Romance|Science Fiction
+57158,The Hobbit: The Desolation of Smaug,2013-12-11,250000000,958400000,161,7.579,14223,13.0413,en,Fantasy|Adventure|Action
+363088,Ant-Man and the Wasp,2018-07-04,140000000,622674139,119,6.9,14202,7.0503,en,Action|Adventure|Science Fiction
+62177,Brave,2012-06-21,185000000,538983207,93,7.027,14185,19.7553,en,Adventure|Animation|Family|Fantasy
+76600,Avatar: The Way of Water,2022-12-14,350000000,2353096253,192,7.594,14176,25.7531,en,Action|Adventure|Science Fiction
+546554,Knives Out,2019-11-27,40000000,312897920,131,7.842,14047,12.11,en,Comedy|Crime|Mystery
+637,Life Is Beautiful,1997-12-20,20000000,230098753,116,8.439,14010,15.398,it,Comedy|Drama
+240,The Godfather Part II,1974-12-20,13000000,102600000,202,8.572,13958,30.5158,en,Drama|Crime
+165,Back to the Future Part II,1989-11-22,40000000,332000000,108,7.781,13956,8.6982,en,Adventure|Comedy|Science Fiction
+489,Good Will Hunting,1997-12-05,10000000,225933435,127,8.162,13871,16.3518,en,Drama
+185,A Clockwork Orange,1971-10-28,2200000,27033812,137,8.2,13835,9.8628,en,Science Fiction|Crime
+162,Edward Scissorhands,1990-12-07,20000000,86024005,105,7.7,13789,7.4405,en,Fantasy|Drama|Romance
+246655,X-Men: Apocalypse,2016-05-18,178000000,543934787,144,6.526,13789,10.1038,en,Science Fiction|Fantasy|Action
+87827,Life of Pi,2012-11-20,120000000,609016565,127,7.41,13784,6.9894,en,Adventure|Drama
+277834,Moana,2016-10-13,150000000,690860472,107,7.566,13741,3.3967,en,Adventure|Comedy|Family|Animation
+102651,Maleficent,2014-05-28,180000000,758539785,97,7.089,13744,11.8491,en,Fantasy|Adventure|Action|Family|Romance
+4922,The Curious Case of Benjamin Button,2008-12-25,150000000,335802786,166,7.6,13740,7.5457,en,Drama|Fantasy|Romance
+350,The Devil Wears Prada,2006-06-29,35000000,326588371,109,7.433,13707,81.92,en,Drama|Comedy
+260513,Incredibles 2,2018-06-14,200000000,1243225667,118,7.453,13693,10.0778,en,Action|Adventure|Animation|Family
+141052,Justice League,2017-11-15,300000000,661326987,120,6.074,13680,8.8275,en,Action|Adventure|Science Fiction
+85,Raiders of the Lost Ark,1981-06-12,18000000,389925971,115,7.9,13660,13.007,en,Adventure|Action
+190859,American Sniper,2014-12-25,58800000,542300000,133,7.413,13653,8.9767,en,War|Action
+64690,Drive,2011-09-15,15000000,79713640,100,7.584,13651,7.8943,en,Drama|Thriller|Crime
+194662,Birdman or (The Unexpected Virtue of Ignorance),2014-10-17,18000000,103215094,120,7.441,13594,5.6831,en,Drama|Comedy
+530915,1917,2019-12-25,100000000,446064352,119,7.987,13560,9.2635,en,War|History|Drama
+49538,X-Men: First Class,2011-06-01,160000000,353624124,132,7.3,13552,0.5468,en,Action|Science Fiction|Adventure
+157350,Divergent,2014-03-14,85000000,288885818,140,6.904,13487,8.9866,en,Action|Adventure|Science Fiction
+103,Taxi Driver,1976-02-09,1900000,28579636,114,8.1,13460,11.094,en,Crime|Drama
+809,Shrek 2,2004-05-19,150000000,935454538,92,7.317,13445,15.1501,en,Animation|Comedy|Family|Fantasy|Romance
+141,Donnie Darko,2001-01-19,4500000,7500000,114,7.8,13433,7.2545,en,Fantasy|Drama|Mystery
+68726,Pacific Rim,2013-07-11,180000000,411000000,131,6.93,13404,19.3343,en,Action|Science Fiction|Adventure
+131634,The Hunger Games: Mockingjay - Part 2,2015-11-18,160000000,653428261,137,6.901,13350,6.6229,en,Action|Adventure|Science Fiction
+6977,No Country for Old Men,2007-11-09,25000000,171627166,122,7.951,13347,15.3137,en,Crime|Thriller|Western
+70981,Prometheus,2012-05-30,130000000,403354469,124,6.597,13280,9.2653,en,Science Fiction|Mystery|Horror
+296096,Me Before You,2016-06-01,20000000,207945075,110,7.9,13247,13.6715,en,Drama|Romance
+72105,Ted,2012-06-29,50000000,549368315,107,6.453,13200,16.5455,en,Comedy|Fantasy
+19908,Zombieland,2009-10-02,23600000,102391540,87,7.26,13187,6.3033,en,Comedy|Horror
+37799,The Social Network,2010-10-01,40000000,224920315,121,7.4,13176,10.4619,en,Drama
+146233,Prisoners,2013-09-19,46000000,122127446,153,8.106,13105,11.6473,en,Drama|Thriller|Crime
+82690,Wreck-It Ralph,2012-11-01,165000000,471222889,101,7.357,13081,10.9436,en,Family|Animation|Comedy|Adventure
+14,American Beauty,1999-09-15,15000000,356296601,122,8.0,13064,9.3111,en,Drama
+111,Scarface,1983-12-09,25000000,66023329,170,8.156,13060,15.7066,en,Action|Crime|Drama
+64682,The Great Gatsby,2013-05-09,105000000,351040419,143,7.4,12968,5.9173,en,Drama|Romance
+228150,Fury,2014-10-15,68000000,211817906,135,7.546,12939,15.276,en,War|Drama|Action
+490132,Green Book,2018-11-16,23000000,321752656,130,8.225,12893,12.1487,en,Drama|Comedy|History
+745,The Sixth Sense,1999-08-06,40000000,672800000,107,7.953,12884,9.1853,en,Mystery|Thriller|Drama
+399055,The Shape of Water,2017-12-01,19500000,195300000,123,7.237,12861,5.7769,en,Drama|Fantasy|Romance
+166426,Pirates of the Caribbean: Dead Men Tell No Tales,2017-05-23,230000000,795922298,129,6.7,12825,13.7437,en,Adventure|Action|Fantasy
+351286,Jurassic World: Fallen Kingdom,2018-06-06,170000000,1310469037,129,6.532,12775,10.6767,en,Adventure|Science Fiction|Thriller
+61791,Rise of the Planet of the Apes,2011-08-03,93000000,481800873,105,7.344,12763,9.1024,en,Thriller|Action|Drama|Science Fiction
+398818,Call Me by Your Name,2017-10-01,3500000,43143046,132,8.1,12754,9.1283,en,Romance|Drama
+14161,2012,2009-10-10,200000000,791217826,158,5.881,12752,11.4309,en,Action|Adventure|Science Fiction
+138843,The Conjuring,2013-07-18,13000000,321293998,112,7.54,12736,20.4072,en,Horror|Thriller
+1724,The Incredible Hulk,2008-06-12,150000000,264770996,114,6.2,12710,12.4551,en,Science Fiction|Action|Adventure
+2048,"I, Robot",2004-07-15,120000000,347234916,115,6.965,12672,8.3929,en,Action|Science Fiction
+127380,Finding Dory,2016-06-16,200000000,1029266989,97,7.041,12658,7.1762,en,Adventure|Animation|Family
+82693,Silver Linings Playbook,2012-11-16,21000000,236412453,122,7.2,12656,5.711,en,Drama|Comedy|Romance
+9502,Kung Fu Panda,2008-06-04,130000000,632091832,90,7.323,12654,19.3818,en,Action|Animation|Comedy|Family
+207,Dead Poets Society,1989-06-02,16400000,235860116,129,8.3,12628,16.9429,en,Drama
+62,2001: A Space Odyssey,1968-04-02,12000000,71923560,149,8.0,12612,13.011,en,Science Fiction|Mystery|Adventure
+372058,Your Name.,2016-08-26,7500000,405320132,106,8.481,12605,28.1092,ja,Animation|Romance|Drama
+73,American History X,1998-07-01,20000000,23900000,119,8.327,12598,10.824,en,Drama
+161,Ocean's Eleven,2001-12-07,85000000,450717150,116,7.461,12574,11.2432,en,Thriller|Crime
+11036,The Notebook,2004-06-25,29000000,115600000,123,7.888,12565,20.2615,en,Romance|Drama
+771,Home Alone,1990-11-16,18000000,476684675,103,7.466,12525,1.1022,en,Comedy|Family
+194,Amélie,2001-04-25,10000000,173921954,122,7.92,12416,9.4383,fr,Comedy|Romance
+38757,Tangled,2010-11-24,260000000,592461732,100,7.613,12410,15.8706,en,Animation|Family|Adventure
+216015,Fifty Shades of Grey,2015-02-11,40000000,569651467,125,5.868,12398,26.3119,en,Drama|Romance|Thriller
+23483,Kick-Ass,2010-03-26,28000000,96188903,118,7.125,12392,7.4004,en,Action|Crime
+1359,American Psycho,2000-04-13,7000000,34269748,102,7.403,12319,11.9504,en,Thriller|Drama|Crime
+562,Die Hard,1988-07-15,28000000,140767956,132,7.812,12310,12.5958,en,Action|Thriller
+8358,Cast Away,2000-12-22,90000000,429632142,143,7.662,12281,7.8615,en,Adventure|Drama
+332562,A Star Is Born,2018-10-03,36000000,436388866,136,7.493,12242,4.2891,en,Music|Drama|Romance
+119450,Dawn of the Planet of the Apes,2014-07-08,170000000,710644566,130,7.339,12233,10.1012,en,Science Fiction|Action|Drama|Thriller
+1858,Transformers,2007-06-27,150000000,709709780,144,6.831,12233,4.997,en,Adventure|Science Fiction|Action
+115,The Big Lebowski,1998-03-06,15000000,47010480,117,7.837,12203,8.1433,en,Comedy|Crime
+36657,X-Men,2000-07-13,75000000,296339527,104,7.016,12193,0.5572,en,Adventure|Action|Science Fiction
+49530,In Time,2011-10-27,40000000,173900000,109,6.971,12173,8.5812,en,Action|Thriller|Science Fiction
+8681,Taken,2008-02-18,25000000,226830568,94,7.406,12118,9.1876,en,Action|Thriller
+812,Aladdin,1992-11-25,28000000,504050219,91,7.655,12024,14.497,en,Animation|Family|Adventure|Fantasy|Romance
+601,E.T. the Extra-Terrestrial,1982-06-11,10500000,797307407,115,7.5,12015,12.6534,en,Adventure|Science Fiction|Drama|Family
+76203,12 Years a Slave,2013-10-18,20000000,187000000,134,7.931,12005,5.3464,en,Drama|History
+93456,Despicable Me 2,2013-06-26,76000000,970766005,98,6.946,12003,12.0105,en,Animation|Comedy|Family
+604,The Matrix Reloaded,2003-05-15,150000000,738599701,138,7.1,11993,11.7813,en,Adventure|Action|Thriller|Science Fiction
+414906,The Batman,2022-03-01,185000000,772775278,177,7.7,11976,23.226,en,Crime|Mystery|Thriller
+872585,Oppenheimer,2023-07-19,100000000,952000000,181,8.029,11835,23.6708,en,Drama|History
+18,The Fifth Element,1997-05-02,90000000,263920180,126,7.581,11763,13.2469,fr,Science Fiction|Action|Adventure
+458156,John Wick: Chapter 3 - Parabellum,2019-05-15,55000000,328349908,131,7.439,11754,11.7589,en,Action|Thriller|Crime
+242582,Nightcrawler,2014-10-23,8500000,47425835,118,7.708,11744,11.3902,en,Crime|Drama|Thriller
+953,Madagascar,2005-05-25,75000000,542064525,86,6.924,11738,15.4094,en,Adventure|Animation|Comedy|Family
+36557,Casino Royale,2006-11-14,150000000,599045960,144,7.6,11705,12.994,en,Adventure|Action|Thriller
+291805,Now You See Me 2,2016-06-02,120000000,334897606,129,6.828,11594,9.7088,en,Crime|Thriller
+13223,Gran Torino,2008-12-12,33000000,270000000,116,7.991,11590,6.7171,en,Drama
+222935,The Fault in Our Stars,2014-06-02,14000000,307166834,126,7.591,11570,5.7728,en,Romance|Drama
+1949,Zodiac,2007-03-02,65000000,84785914,157,7.53,11568,8.7663,en,Crime|Mystery|Thriller
+578,Jaws,1975-06-20,7000000,470653000,124,7.7,11545,15.8244,en,Horror|Thriller|Adventure
+196,Back to the Future Part III,1990-05-25,40000000,244527583,119,7.493,11541,6.3219,en,Adventure|Comedy|Science Fiction
+75612,Oblivion,2013-04-10,120000000,286168572,124,6.7,11528,6.0528,en,Action|Science Fiction|Adventure|Mystery
+411,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005-12-07,180000000,745013115,143,7.137,11502,16.6245,en,Adventure|Family|Fantasy
+310,Bruce Almighty,2003-05-23,80000000,484592874,101,6.726,11501,12.8128,en,Fantasy|Comedy
+51876,Limitless,2011-03-17,27000000,161900000,106,7.202,11494,6.6527,en,Thriller|Mystery|Science Fiction
+600,Full Metal Jacket,1987-06-26,30000000,46357676,117,8.119,11479,7.9287,en,Drama|War
+338952,Fantastic Beasts: The Crimes of Grindelwald,2018-11-14,200000000,654900000,134,6.8,11475,6.2731,en,Fantasy|Adventure
+1417,Pan's Labyrinth,2006-10-11,19000000,83258226,118,7.764,11476,12.7406,es,Fantasy|Drama|War
+510,One Flew Over the Cuckoo's Nest,1975-11-19,3000000,108981275,133,8.412,11475,12.8436,en,Drama
+629,The Usual Suspects,1995-07-19,6000000,23300000,106,8.2,11434,12.9805,en,Drama|Crime|Thriller
+508442,Soul,2020-12-25,150000000,121977511,101,8.1,11432,13.7532,en,Animation|Family|Drama|Music|Fantasy
+12405,Slumdog Millionaire,2008-11-12,15000000,378400000,121,7.732,11338,5.9248,en,Drama|Romance
+62211,Monsters University,2013-06-19,200000000,743559465,104,7.052,11327,10.7137,en,Animation|Family
+8844,Jumanji,1995-12-15,65000000,262821940,104,7.248,11327,3.711,en,Adventure|Fantasy|Family
+168259,Furious 7,2015-04-01,190000000,1515400000,138,7.218,11296,16.4921,en,Action|Crime|Thriller
+45243,The Hangover Part II,2011-05-25,80000000,586764305,102,6.508,11293,8.6864,en,Comedy
+854,The Mask,1994-07-29,23000000,351583407,101,6.99,11276,11.3331,en,Comedy|Fantasy|Crime|Romance
+206647,Spectre,2015-10-26,245000000,880707597,148,6.57,11261,9.1603,en,Action|Adventure|Thriller
+497698,Black Widow,2021-07-07,200000000,379751131,134,7.169,11259,11.754,en,Action|Adventure|Science Fiction
+2080,X-Men Origins: Wolverine,2009-04-28,150000000,373062864,107,6.3,11253,0.7887,en,Adventure|Action|Science Fiction
+787,Mr. & Mrs. Smith,2005-06-07,110000000,487287646,120,6.696,11239,9.3075,en,Action|Comedy|Drama|Thriller
+84892,The Perks of Being a Wallflower,2012-09-20,13000000,33384127,103,7.8,11212,6.0381,en,Drama
+580489,Venom: Let There Be Carnage,2021-09-30,110000000,506863592,97,6.746,11185,8.7084,en,Science Fiction|Action|Adventure
+82992,Fast & Furious 6,2013-05-21,160000000,788700000,130,6.817,11183,1.2761,en,Action|Thriller|Crime
+343668,Kingsman: The Golden Circle,2017-09-20,104000000,410902662,141,6.9,11144,6.2706,en,Action|Adventure|Comedy|Crime|Science Fiction
+293167,Kong: Skull Island,2017-03-08,185000000,566652812,118,6.554,11142,9.3918,en,Action|Adventure|Fantasy
+346698,Barbie,2023-07-19,145000000,1447138421,114,6.922,11136,20.6207,en,Comedy|Adventure|Fantasy
+197,Braveheart,1995-05-24,72000000,213216216,178,7.946,11127,9.1576,en,Action|Drama|History|War
+266856,The Theory of Everything,2014-11-07,15000000,123726688,123,7.831,11125,2.9675,en,Drama|Romance
+577922,Tenet,2020-08-22,205000000,365304105,150,7.2,11118,8.6908,en,Action|Thriller|Science Fiction
+4935,Howl's Moving Castle,2004-09-09,24000000,236049757,119,8.388,11108,23.4646,ja,Fantasy|Animation|Adventure
+211672,Minions,2015-06-17,74000000,1159457503,91,6.418,11104,5.845,en,Family|Animation|Adventure|Comedy
+453,A Beautiful Mind,2001-12-14,58000000,316791257,135,7.856,11098,9.0891,en,Drama|Romance
+652,Troy,2004-05-13,175000000,497409852,163,7.176,11082,20.5525,en,War|Action|History
+89,Indiana Jones and the Last Crusade,1989-05-24,48000000,474171806,127,7.852,11076,8.6979,en,Adventure|Action
+19913,(500) Days of Summer,2009-07-17,7500000,60781545,95,7.3,11046,9.4786,en,Comedy|Drama|Romance
+64688,21 Jump Street,2012-03-14,42000000,201585328,109,6.886,11039,7.2114,en,Action|Comedy|Crime
+294254,Maze Runner: The Scorch Trials,2015-09-09,61000000,312296056,131,6.73,11039,10.6045,en,Science Fiction|Action|Thriller|Adventure
+361743,Top Gun: Maverick,2022-05-21,170000000,1488732821,131,8.159,11022,27.3052,en,Action|Drama
+539,Psycho,1960-06-22,806947,50000000,109,8.413,11006,16.5228,en,Horror|Thriller|Mystery
+41154,Men in Black 3,2012-05-23,225000000,654213485,106,6.545,11000,6.4546,en,Action|Comedy|Science Fiction
+641,Requiem for a Dream,2000-10-06,4500000,7390108,102,8.014,10989,3.9262,en,Crime|Drama
+1593,Night at the Museum,2006-12-20,110000000,574480841,108,6.599,10967,8.3649,en,Fantasy|Family|Comedy
+58574,Sherlock Holmes: A Game of Shadows,2011-11-22,125000000,334615000,129,7.145,10945,5.4742,en,Adventure|Mystery|Crime
+359940,"Three Billboards Outside Ebbing, Missouri",2017-12-01,15000000,162729321,115,8.1,10917,5.5743,en,Crime|Drama
+59967,Looper,2012-09-26,30000000,47042000,118,6.911,10917,9.7052,en,Action|Thriller|Science Fiction
+36658,X2,2003-04-27,110000000,407711549,133,7.037,10894,0.3907,en,Adventure|Action|Science Fiction
+679,Aliens,1986-07-18,18500000,183316455,137,7.962,10877,10.1431,en,Action|Thriller|Science Fiction
+181812,Star Wars: The Rise of Skywalker,2019-12-18,489900000,1074144248,142,6.267,10859,11.7912,en,Adventure|Action|Science Fiction
+9799,The Fast and the Furious,2001-06-22,38000000,207283925,106,7.007,10846,1.2122,en,Action|Crime|Thriller
+791373,Zack Snyder's Justice League,2021-03-18,70000000,0,242,8.1,10843,14.2391,en,Action|Adventure|Fantasy
+605,The Matrix Revolutions,2003-11-05,150000000,424988211,129,6.753,10836,9.4979,en,Adventure|Action|Thriller|Science Fiction
+337339,The Fate of the Furious,2017-04-12,250000000,1236000000,136,6.854,10823,8.6992,en,Action|Crime|Thriller
+495764,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),2020-02-05,75000000,205537933,109,6.877,10820,7.2154,en,Action|Crime
+502356,The Super Mario Bros. Movie,2023-04-05,100000000,1360879735,93,7.604,10790,31.8114,en,Family|Comedy|Adventure|Fantasy|Animation
+56292,Mission: Impossible - Ghost Protocol,2011-12-07,145000000,694713380,133,7.114,10782,8.8521,en,Action|Thriller|Adventure
+420818,The Lion King,2019-07-12,260000000,1662020819,118,7.096,10750,11.2559,en,Adventure|Drama|Family|Animation
+10020,Beauty and the Beast,1991-10-22,25000000,424967620,84,7.728,10684,13.7796,en,Romance|Family|Animation|Fantasy
+608,Men in Black II,2002-07-03,140000000,445135288,88,6.388,10669,6.9543,en,Action|Comedy|Science Fiction
+399566,Godzilla vs. Kong,2021-03-24,200000000,470116094,114,7.535,10648,9.0987,en,Action|Science Fiction|Adventure
+772,Home Alone 2: Lost in New York,1992-11-15,18000000,358994850,120,6.787,10635,11.4407,en,Comedy|Family|Adventure
+420817,Aladdin,2019-05-22,183000000,1054304000,127,7.085,10620,12.3606,en,Adventure|Fantasy|Romance|Family
+1402,The Pursuit of Happyness,2006-12-14,55000000,307077295,117,7.886,10608,18.8678,en,Drama
+405774,Bird Box,2018-12-13,19800000,0,124,6.824,10589,7.1354,en,Horror|Thriller|Drama
+392044,Murder on the Orient Express,2017-11-03,55000000,352800000,114,6.707,10559,7.3935,en,Mystery|Drama|Crime
+301528,Toy Story 4,2019-06-19,175000000,1073841394,100,7.5,10551,25.8178,en,Family|Comedy|Animation|Adventure
+13475,Star Trek,2009-05-06,150000000,386839614,127,7.431,10500,8.0739,en,Science Fiction|Action|Adventure
+283366,Miss Peregrine's Home for Peculiar Children,2016-09-28,110000000,296482446,127,6.8,10484,6.2188,en,Adventure|Fantasy
+381284,Hidden Figures,2016-12-10,25000000,235957472,127,8.043,10456,8.7113,en,Drama|History
+82702,How to Train Your Dragon 2,2014-06-05,145000000,621537519,102,7.682,10453,14.184,en,Fantasy|Action|Adventure|Animation|Family
+262500,Insurgent,2015-03-18,110000000,297002527,119,6.36,10445,7.2648,en,Action|Science Fiction|Thriller
+602,Independence Day,1996-06-25,75000000,817400891,145,6.913,10445,11.8093,en,Action|Adventure|Science Fiction
+10674,Mulan,1998-06-18,90000000,304320254,88,7.905,10445,16.4134,en,Animation|Family|Adventure
+110415,Snowpiercer,2013-08-01,39200000,86758912,127,6.9,10435,8.3963,ko,Action|Science Fiction|Drama
+515001,Jojo Rabbit,2019-10-18,14000000,82468705,108,7.985,10425,4.8716,en,Comedy|War|Drama
+627,Trainspotting,1996-02-23,4000000,71981823,94,8.0,10411,6.6565,en,Drama|Crime
+454626,Sonic the Hedgehog,2020-02-12,85000000,319715683,99,7.283,10402,12.151,en,Action|Science Fiction|Comedy|Family
+566525,Shang-Chi and the Legend of the Ten Rings,2021-09-01,150000000,432243292,132,7.495,10403,14.6736,en,Action|Adventure|Fantasy
+36668,X-Men: The Last Stand,2006-05-24,210000000,459359555,104,6.422,10391,0.4993,en,Adventure|Action|Science Fiction
+70,Million Dollar Baby,2004-12-05,30000000,216763646,132,7.954,10377,5.4523,en,Drama
+453395,Doctor Strange in the Multiverse of Madness,2022-05-04,290000000,955775804,126,7.231,10368,15.4049,en,Fantasy|Action|Adventure
+17654,District 9,2009-08-05,30000000,210888950,112,7.468,10355,8.4257,en,Science Fiction
+950,Ice Age: The Meltdown,2006-03-29,80000000,660998756,91,6.72,10348,14.883,en,Animation|Family|Comedy|Adventure
+9479,The Nightmare Before Christmas,1993-10-09,18000000,75634409,76,7.832,10345,8.9138,en,Fantasy|Animation|Family
+76170,The Wolverine,2013-07-21,120000000,415440673,126,6.434,10302,1.5679,en,Action|Science Fiction|Adventure
+330457,Frozen II,2019-11-20,150000000,1453683476,103,7.231,10294,17.7796,en,Family|Animation|Adventure|Comedy|Fantasy
+8960,Hancock,2008-07-01,150000000,629400000,92,6.356,10271,5.7295,en,Fantasy|Action
+568124,Encanto,2021-10-13,150000000,261292688,102,7.57,10215,12.3454,en,Animation|Comedy|Family|Fantasy
+287947,Shazam!,2019-03-29,80000000,367799011,132,6.978,10208,10.6178,en,Action|Comedy|Fantasy
+3933,Corpse Bride,2005-09-12,40000000,118133252,77,7.59,10196,14.987,en,Romance|Fantasy|Animation
+423,The Pianist,2002-09-17,35000000,120098945,150,8.374,10151,11.3324,en,Drama|War
+5915,Into the Wild,2007-09-21,15000000,56255142,148,7.796,10149,5.6134,en,Adventure|Drama
+87,Indiana Jones and the Temple of Doom,1984-05-23,28000000,333000000,118,7.308,10127,7.5046,en,Adventure|Action
+2501,The Bourne Identity,2002-06-14,60000000,214034224,119,7.48,10106,11.9116,en,Action|Drama|Mystery|Thriller
+591,The Da Vinci Code,2006-05-17,125000000,760006945,149,6.728,10078,6.9765,en,Thriller|Mystery
+176,Saw,2004-10-01,1200000,104045735,103,7.4,10077,10.8982,en,Horror|Mystery|Crime
+337404,Cruella,2021-05-26,200000000,233503234,134,7.971,10074,15.4327,en,Comedy|Crime|Drama
+316029,The Greatest Showman,2017-12-20,84000000,459066134,105,7.857,10065,8.5566,en,Drama
+564,The Mummy,1999-04-16,80000000,415885488,124,6.979,10047,21.8225,en,Adventure|Action|Fantasy
+399579,Alita: Battle Angel,2019-01-31,170000000,405000000,122,7.256,10038,11.3252,en,Action|Science Fiction|Adventure
+389,12 Angry Men,1957-04-10,397751,4360000,97,8.6,10029,23.5013,en,Drama
+13183,Watchmen,2009-03-04,130000000,185258983,163,7.356,10009,7.7357,en,Mystery|Action|Science Fiction
+9738,Fantastic Four,2005-06-29,100000000,333535934,106,5.808,9998,6.8996,en,Action|Fantasy|Science Fiction
+107,Snatch,2000-09-01,100000000,83557872,103,7.8,9997,8.9521,en,Crime|Comedy
+954,Mission: Impossible,1996-05-22,80000000,457696391,111,7.025,9994,9.0676,en,Adventure|Action|Thriller
+156022,The Equalizer,2014-09-24,55000000,192330738,132,7.288,9961,17.3103,en,Thriller|Action|Crime
+9741,Unbreakable,2000-11-22,75000000,248118121,106,7.1,9934,4.9218,en,Thriller|Drama|Mystery
+670,Oldboy,2003-11-21,3000000,17500000,120,8.238,9883,12.1773,ko,Drama|Thriller|Mystery|Action
+318846,The Big Short,2015-12-11,28000000,133346506,131,7.4,9857,7.5139,en,Comedy|Drama
+550988,Free Guy,2021-08-11,110000000,331526598,115,7.451,9837,13.6016,en,Comedy|Adventure|Science Fiction
+124905,Godzilla,2014-05-14,160000000,524978362,123,6.361,9802,8.9562,en,Action|Drama|Science Fiction
+810,Shrek the Third,2007-05-17,160000000,813367380,93,6.31,9782,9.1129,en,Fantasy|Adventure|Animation|Comedy|Family
+620,Ghostbusters,1984-06-08,30000000,296640120,105,7.5,9763,8.9052,en,Comedy|Fantasy
+18239,The Twilight Saga: New Moon,2009-11-18,50000000,709827462,131,5.99,9759,9.7607,en,Adventure|Fantasy|Drama|Romance
+9487,A Bug's Life,1998-11-25,80000000,363258859,95,6.978,9735,14.5657,en,Adventure|Animation|Comedy|Family
+281338,War for the Planet of the Apes,2017-07-11,150000000,490719763,140,7.218,9727,8.2302,en,Drama|Science Fiction|War
+177677,Mission: Impossible - Rogue Nation,2015-07-28,150000000,682716636,131,7.224,9725,9.9945,en,Action|Adventure
+264644,Room,2015-10-16,13000000,35401758,118,7.994,9701,3.8711,en,Drama|Thriller
+429,"The Good, the Bad and the Ugly",1966-12-23,1200000,38900000,161,8.5,9676,25.403,it,Western
+54138,Star Trek Into Darkness,2013-05-05,190000000,467381584,132,7.3,9671,5.3511,en,Action|Adventure|Science Fiction
+180,Minority Report,2002-06-20,102000000,358372926,145,7.355,9646,8.5864,en,Science Fiction|Action|Thriller
+474350,It Chapter Two,2019-09-04,79000000,473123154,169,6.838,9627,10.0544,en,Horror|Thriller|Drama
+436969,The Suicide Squad,2021-07-28,185000000,168717425,132,7.46,9596,15.0524,en,Action|Comedy|Adventure
+68724,Elysium,2013-08-07,115000000,286140700,109,6.522,9590,5.2172,en,Science Fiction|Action|Drama|Thriller
+744,Top Gun,1986-05-16,15000000,356830601,110,7.067,9588,14.2728,en,Action|Drama|Romance
+273481,Sicario,2015-09-17,30000000,84997446,122,7.4,9573,9.0873,en,Action|Crime|Thriller
+664413,365 Days,2020-02-07,0,9458590,114,7.0,9519,16.475,pl,Romance|Drama|Crime
+10625,Mean Girls,2004-04-30,17000000,130195052,97,7.226,9473,12.7667,en,Drama|Comedy
+138832,We're the Millers,2013-08-07,37000000,270000000,110,6.844,9466,8.1069,en,Comedy|Crime
+126889,Alien: Covenant,2017-05-09,97000000,240891763,122,6.2,9433,9.6367,en,Horror|Science Fiction
+50620,The Twilight Saga: Breaking Dawn - Part 2,2012-11-13,120000000,829747654,115,6.457,9387,12.6147,en,Fantasy|Drama|Romance
+512200,Jumanji: The Next Level,2019-12-04,125000000,801693929,123,6.876,9385,10.5645,en,Adventure|Comedy|Fantasy
+300668,Annihilation,2018-02-22,40000000,43070915,115,6.442,9376,7.0002,en,Science Fiction|Horror
+646380,Don't Look Up,2021-12-08,75000000,791863,138,7.065,9366,7.7421,en,Comedy|Science Fiction|Drama
+747,Shaun of the Dead,2004-04-09,6000000,39396175,99,7.5,9356,6.37,en,Horror|Comedy
+45269,The King's Speech,2010-11-26,15000000,414211549,118,7.7,9314,5.9023,en,Drama|History
+50646,"Crazy, Stupid, Love.",2011-07-29,50000000,145079584,118,7.273,9296,7.7728,en,Comedy|Drama|Romance
+122906,About Time,2013-09-04,12000000,87100449,123,7.907,9284,13.6398,en,Drama|Romance|Fantasy
+50619,The Twilight Saga: Breaking Dawn - Part 1,2011-11-16,110000000,712171856,117,6.19,9276,17.6577,en,Adventure|Fantasy|Romance
+348350,Solo: A Star Wars Story,2018-05-15,250000000,392952373,135,6.559,9275,6.076,en,Science Fiction|Adventure|Action
+24021,The Twilight Saga: Eclipse,2010-06-23,68000000,698491347,124,6.193,9258,8.4439,en,Adventure|Fantasy|Drama|Romance
+109439,The Hangover Part III,2013-05-23,103000000,362000072,100,6.211,9247,6.1674,en,Comedy
+330,The Lost World: Jurassic Park,1997-05-23,73000000,618638999,129,6.566,9242,0.5727,en,Adventure|Action|Science Fiction
+47971,xXx: Return of Xander Cage,2017-01-13,85000000,346118277,107,6.1,9231,23.2465,en,Action|Adventure|Crime
+39254,Real Steel,2011-09-28,110000000,299300000,127,7.104,9204,78.4646,en,Action|Science Fiction|Drama
+74,War of the Worlds,2005-06-28,132000000,603873119,117,6.546,9197,9.8381,en,Adventure|Thriller|Science Fiction
+259693,The Conjuring 2,2016-06-08,40000000,322819915,134,7.293,9193,14.44,en,Horror
+76492,Hotel Transylvania,2012-09-20,85000000,358375603,91,6.965,9183,11.9568,en,Animation|Comedy|Family|Fantasy
+8373,Transformers: Revenge of the Fallen,2009-06-19,200000000,836304167,150,6.218,9181,3.6417,en,Science Fiction|Action|Adventure
+524434,Eternals,2021-11-03,200000000,402064899,156,6.773,9162,10.4579,en,Science Fiction|Action|Adventure
+106,Predator,1987-06-12,15000000,98267558,107,7.559,9150,21.3754,en,Science Fiction|Action|Adventure|Thriller
+353081,Mission: Impossible - Fallout,2018-07-25,178000000,824171374,147,7.451,9146,8.989,en,Action|Adventure
+63,Twelve Monkeys,1995-12-29,29000000,168841459,129,7.608,9134,7.5521,en,Science Fiction|Thriller|Mystery
+45612,Source Code,2011-03-30,32000000,147332697,93,7.3,9134,6.1334,en,Thriller|Science Fiction|Mystery
+28,Apocalypse Now,1979-05-19,31500000,150000000,147,8.269,9113,13.6411,en,Drama|War
+275,Fargo,1996-03-08,7000000,60611975,98,7.9,9108,6.2375,en,Crime|Drama|Thriller
+152532,Dallas Buyers Club,2013-11-01,5000000,55736588,117,7.913,9092,4.5398,en,Drama|History
+450465,Glass,2019-01-16,20000000,246999039,129,6.7,9089,5.9122,en,Thriller|Drama|Science Fiction
+464052,Wonder Woman 1984,2020-12-16,200000000,169601036,151,6.4,9066,6.4154,en,Action|Adventure|Fantasy
+50014,The Help,2011-08-09,25000000,216600000,146,8.203,9062,10.3908,en,Drama
+217,Indiana Jones and the Kingdom of the Crystal Skull,2008-05-21,185000000,786636033,122,6.0,9030,7.7585,en,Adventure|Action
+391713,Lady Bird,2017-09-01,10000000,79000000,94,7.2,9026,20.2697,en,Drama|Comedy
+254128,San Andreas,2015-05-27,110000000,473990832,114,6.246,9021,6.4668,en,Action|Drama|Thriller
+128,Princess Mononoke,1997-07-12,23500000,176506186,134,8.321,9017,16.8239,ja,Adventure|Fantasy|Animation
+14836,Coraline,2009-02-05,60000000,185860104,100,7.9,9008,33.3403,en,Animation|Family|Fantasy
+359724,Ford v Ferrari,2019-11-13,97600000,225508210,153,8.007,8999,9.4282,en,Drama|Action|History
+114,Pretty Woman,1990-03-23,14000000,463406268,120,7.449,8996,8.0925,en,Romance|Comedy
+87101,Terminator Genisys,2015-06-23,155000000,440603537,126,5.956,8983,9.9765,en,Science Fiction|Action|Thriller
+68734,Argo,2012-10-11,44500000,232300000,120,7.288,8963,5.7779,en,Drama|Thriller
+38356,Transformers: Dark of the Moon,2011-06-28,195000000,1123794079,154,6.232,8960,2.5464,en,Action|Science Fiction|Adventure
+508943,Luca,2021-06-17,200000000,51074773,95,7.782,8958,12.1977,en,Animation|Comedy|Drama|Family|Fantasy
+4951,10 Things I Hate About You,1999-03-30,16000000,53478166,97,7.6,8931,14.3846,en,Comedy|Romance|Drama
+137,Groundhog Day,1993-02-11,14600000,71108778,101,7.63,8901,9.509,en,Romance|Fantasy|Comedy
+435,The Day After Tomorrow,2004-05-26,125000000,552639571,123,6.559,8885,8.5636,en,Science Fiction|Thriller|Adventure
+8355,Ice Age: Dawn of the Dinosaurs,2009-06-26,90000000,886686817,94,6.768,8875,14.4843,en,Animation|Comedy|Family|Adventure
+51497,Fast Five,2011-04-20,125000000,626100000,131,7.242,8861,1.6856,en,Action|Thriller|Crime
+315162,Puss in Boots: The Last Wish,2022-12-07,90000000,484700000,103,8.207,8861,19.0457,en,Animation|Adventure|Fantasy|Comedy|Family
+158015,The Purge,2013-05-31,3000000,91266581,85,6.249,8854,5.5416,en,Science Fiction|Horror|Thriller
+187,Sin City,2005-04-01,40000000,158733820,124,7.5,8838,4.9925,en,Crime|Thriller
+8392,My Neighbor Totoro,1988-04-16,3700000,41000000,86,8.064,8828,12.5692,ja,Fantasy|Animation|Family
+402900,Ocean's Eight,2018-06-07,70000000,297718711,111,6.957,8806,7.2704,en,Crime|Comedy|Action
+314365,Spotlight,2015-11-06,20000000,98690254,129,7.8,8802,4.1852,en,Drama|History
+4348,Pride & Prejudice,2005-09-16,28000000,124604345,128,8.1,8781,13.3856,en,Drama|Romance
+91314,Transformers: Age of Extinction,2014-06-25,210000000,1105261713,165,5.965,8769,12.5725,en,Science Fiction|Action|Adventure
+38700,Bad Boys for Life,2020-01-15,90000000,426505244,124,7.114,8750,6.9492,en,Thriller|Action|Crime
+533535,Deadpool & Wolverine,2024-07-24,200000000,1338073645,128,7.572,8737,42.0061,en,Action|Comedy|Science Fiction
+594,The Terminal,2004-06-17,60000000,219417255,128,7.355,8718,4.8658,en,Comedy|Drama
+466282,To All the Boys I've Loved Before,2018-08-17,0,0,100,7.6,8713,5.644,en,Comedy|Romance
+333371,10 Cloverfield Lane,2016-03-10,15000000,110216998,104,7.003,8691,4.8333,en,Thriller|Science Fiction|Drama|Horror
+290250,The Nice Guys,2016-05-15,50000000,71261763,116,7.132,8668,6.184,en,Comedy|Crime|Action
+9552,The Exorcist,1973-12-26,12000000,441306145,122,7.744,8655,11.0927,en,Horror|Drama
+569094,Spider-Man: Across the Spider-Verse,2023-05-31,100000000,690897910,140,8.3,8654,28.5496,en,Animation|Action|Adventure|Science Fiction
+1366,Rocky,1976-12-03,1000000,117253345,120,7.8,8637,11.8145,en,Drama
+493922,Hereditary,2018-06-07,10000000,87796204,128,7.295,8610,13.3147,en,Horror|Mystery|Thriller
+22538,Scott Pilgrim vs. the World,2010-08-12,73000000,51825248,113,7.486,8608,6.0245,en,Action|Comedy|Romance
+95,Armageddon,1998-07-01,140000000,553799566,151,6.835,8589,8.0081,en,Action|Science Fiction|Adventure
+268,Batman,1989-06-21,35000000,411348924,126,7.2,8583,7.0773,en,Fantasy|Action|Crime
+616037,Thor: Love and Thunder,2022-07-06,250000000,760928081,119,6.369,8577,13.9908,en,Fantasy|Action|Comedy
+315837,Ghost in the Shell,2017-03-29,110000000,169801921,107,6.108,8575,5.4451,en,Science Fiction|Drama|Action
+22970,The Cabin in the Woods,2012-04-12,30000000,71038838,95,6.652,8575,6.9915,en,Horror|Mystery|Comedy
+10764,Quantum of Solace,2008-10-29,200000000,589593688,106,6.337,8559,6.797,en,Adventure|Action|Thriller
+35,The Simpsons Movie,2007-07-25,75000000,527068851,87,7.023,8555,8.0208,en,Animation|Comedy|Family
+2108,The Breakfast Club,1985-02-15,1000000,51530442,98,7.722,8548,5.9361,en,Comedy|Drama
+187017,22 Jump Street,2014-06-05,50000000,331333876,112,6.828,8536,8.0042,en,Crime|Comedy|Action
+170,28 Days Later,2002-10-31,8000000,82784517,113,7.244,8528,10.8245,en,Horror|Thriller|Science Fiction
+537915,After,2019-04-11,14000000,69497587,106,7.107,8526,22.2628,en,Drama|Romance
+328111,The Secret Life of Pets,2016-06-18,75000000,875457937,86,6.32,8518,3.4071,en,Animation|Comedy|Family|Adventure
+254,King Kong,2005-12-12,207000000,562363449,188,6.892,8514,9.7487,en,Adventure|Drama|Action
+339846,Baywatch,2017-05-25,69000000,177900000,116,6.083,8505,7.4947,en,Comedy|Action|Crime
+278927,The Jungle Book,2016-04-07,175000000,966550600,106,6.872,8500,9.3821,en,Adventure|Family|Fantasy
+137106,The Lego Movie,2014-02-06,60000000,470759687,100,7.428,8496,7.7293,en,Animation|Family|Adventure|Comedy|Fantasy
+198184,Chappie,2015-03-04,49000000,104399548,120,6.79,8489,11.2556,en,Crime|Action|Science Fiction
+49013,Cars 2,2011-06-11,200000000,559852396,106,6.18,8480,15.3362,en,Animation|Family|Adventure|Comedy
+4011,Beetlejuice,1988-03-30,15000000,84554197,92,7.372,8454,6.3301,en,Fantasy|Comedy
+335797,Sing,2016-11-23,75000000,634151679,108,7.124,8434,9.1938,en,Animation|Comedy|Family|Music
+10144,The Little Mermaid,1989-11-17,40000000,211343479,83,7.351,8408,10.6473,en,Animation|Family|Fantasy
+1979,Fantastic Four: Rise of the Silver Surfer,2007-06-13,130000000,301913131,92,5.633,8405,5.6138,en,Science Fiction|Adventure|Action
+336843,Maze Runner: The Death Cure,2018-01-10,62000000,288418190,143,7.081,8404,7.2492,en,Science Fiction|Action|Adventure|Thriller
+396535,Train to Busan,2016-07-20,8500000,87547518,118,7.75,8401,29.4448,ko,Horror|Thriller|Action|Adventure
+50544,Friends with Benefits,2011-07-21,35000000,149500000,109,6.643,8396,5.9062,en,Romance|Comedy
+2503,The Bourne Ultimatum,2007-08-03,70000000,442824138,115,7.439,8376,6.2669,en,Action|Drama|Mystery|Thriller
+949,Heat,1995-12-15,60000000,187400000,170,7.936,8373,15.1795,en,Crime|Drama|Action
+338970,Tomb Raider,2018-03-05,94000000,274650803,118,6.367,8368,6.6829,en,Action|Adventure|Fantasy
+615457,Nobody,2021-03-18,16000000,57512470,91,7.878,8367,10.8578,en,Action|Thriller
+447365,Guardians of the Galaxy Vol. 3,2023-05-03,250000000,845550000,150,7.9,8359,14.8457,en,Science Fiction|Adventure|Action
+337167,Fifty Shades Freed,2018-01-17,55000000,371985018,105,6.675,8355,39.9577,en,Drama|Romance
+4638,Hot Fuzz,2007-02-14,12000000,80600000,121,7.565,8350,6.5387,en,Crime|Action|Comedy
+1372,Blood Diamond,2006-12-08,100000000,171720398,143,7.6,8338,7.7907,en,Drama|Thriller|Action
+2105,American Pie,1999-07-09,11000000,235483004,95,6.6,8321,15.7368,en,Comedy|Romance
+340666,Nocturnal Animals,2016-11-04,22500000,29300000,116,7.412,8302,4.3982,en,Drama|Thriller
+27578,The Expendables,2010-08-07,80000000,274470394,103,6.252,8299,8.8374,en,Thriller|Adventure|Action
+256591,Focus,2015-02-25,50100000,153962963,105,6.9,8290,5.0499,en,Romance|Comedy|Crime
+8871,How the Grinch Stole Christmas,2000-11-17,123000000,345800000,105,6.78,8282,6.426,en,Family|Comedy|Fantasy
+116745,The Secret Life of Walter Mitty,2013-12-18,90000000,188133322,114,7.225,8274,10.8789,en,Adventure|Comedy|Drama|Fantasy
+406997,Wonder,2017-11-13,20000000,315025930,113,8.106,8260,18.8952,en,Family|Drama
+1954,The Butterfly Effect,2004-01-17,13000000,96800000,113,7.58,8256,8.2797,en,Science Fiction|Thriller
+58595,Snow White and the Huntsman,2012-05-30,170000000,396600000,127,5.987,8239,4.9604,en,Adventure|Fantasy|Drama
+345940,The Meg,2018-08-09,150000000,530517320,113,6.248,8205,11.0436,en,Action|Science Fiction|Horror
+598,City of God,2002-08-30,3300000,30641770,129,8.429,8199,12.3293,pt,Drama|Crime
+2502,The Bourne Supremacy,2004-07-23,75000000,288500217,108,7.332,8169,6.4381,en,Action|Drama|Thriller
+584,2 Fast 2 Furious,2003-06-05,76000000,236350661,108,6.525,8161,1.8212,en,Action|Crime|Thriller
+561,Constantine,2005-02-08,100000000,230900000,121,7.162,8135,13.9301,en,Fantasy|Action|Horror
+121856,Assassin's Creed,2016-12-21,125000000,240700000,116,5.436,8120,3.1717,en,Action|Adventure|Science Fiction
+57800,Ice Age: Continental Drift,2012-06-27,95000000,877244782,88,6.386,8110,14.2206,en,Animation|Comedy|Adventure|Family
+404368,Ralph Breaks the Internet,2018-11-20,175000000,529323962,112,7.161,8108,7.3391,en,Action|Adventure|Animation|Comedy|Family|Science Fiction
+487558,BlacKkKlansman,2018-08-09,15000000,93411426,136,7.491,8106,3.2839,en,Crime|Comedy|Drama|History
+8363,Superbad,2007-08-17,20000000,170800000,113,7.3,8106,10.4635,en,Comedy
+153,Lost in Translation,2003-09-18,4000000,119723856,102,7.382,8105,8.2999,en,Drama|Comedy|Romance
+44115,127 Hours,2010-11-12,18000000,35700000,94,7.1,8100,5.4537,en,Adventure|Drama|Thriller
+530385,Midsommar,2019-07-03,9000000,48498408,147,7.151,8093,10.9809,en,Horror|Drama|Mystery
+458723,Us,2019-03-14,20000000,256071218,116,6.947,8081,5.907,en,Horror|Mystery
+257344,Pixels,2015-07-16,88000000,244874809,106,5.78,8051,9.0471,en,Action|Comedy|Science Fiction
+693134,Dune: Part Two,2024-02-27,190000000,714844358,167,8.128,8019,23.0595,en,Science Fiction|Adventure
+339964,Valerian and the City of a Thousand Planets,2017-07-19,177200000,225973340,137,6.6,8010,7.2482,en,Adventure|Science Fiction|Action
+214756,Ted 2,2015-06-25,68000000,215863606,115,6.325,8009,14.052,en,Comedy|Fantasy
+545611,Everything Everywhere All at Once,2022-03-24,25000000,139200000,140,7.718,7992,16.8334,en,Action|Adventure|Science Fiction
+408,Snow White and the Seven Dwarfs,1938-01-22,1488423,184925486,83,7.124,7986,9.1896,en,Fantasy|Animation|Family
+4232,Scream,1996-12-20,14000000,173046663,112,7.43,7984,33.2526,en,Crime|Horror|Mystery
+300669,Don't Breathe,2016-06-08,9900000,158906350,89,7.013,7978,5.1077,en,Horror|Thriller|Crime
+312221,Creed,2015-11-25,37000000,173600000,133,7.407,7961,7.1651,en,Drama
+603692,John Wick: Chapter 4,2023-03-21,100000000,447316405,170,7.709,7960,22.3708,en,Action|Thriller|Crime
+10192,Shrek Forever After,2010-05-20,165000000,752600867,93,6.401,7957,9.0798,en,Comedy|Adventure|Fantasy|Animation|Family
+1091,The Thing,1982-06-25,15000000,19629760,109,8.1,7953,9.1921,en,Horror|Mystery|Science Fiction
+341174,Fifty Shades Darker,2017-02-08,55000000,381545846,118,6.475,7945,9.2074,en,Drama|Romance
+11970,Hercules,1997-06-13,85000000,252712101,93,7.495,7938,11.6624,en,Animation|Family|Fantasy|Adventure|Comedy|Romance
+20526,TRON: Legacy,2010-12-14,170000000,409912892,126,6.544,7934,8.9739,en,Adventure|Action|Science Fiction
+395992,Life,2017-03-22,58000000,100541806,104,6.454,7934,6.4839,en,Horror|Science Fiction|Mystery
+163,Ocean's Twelve,2004-12-09,110000000,362744280,125,6.566,7906,7.814,en,Thriller|Crime
+49444,Kung Fu Panda 2,2011-05-25,150000000,665692281,91,7.066,7893,10.7068,en,Animation|Family|Comedy|Action
+773,Little Miss Sunshine,2006-07-26,8000000,100523351,102,7.694,7864,4.4497,en,Comedy|Drama
+331,Jurassic Park III,2001-07-18,93000000,368780809,92,6.176,7863,0.4143,en,Adventure|Thriller|Science Fiction
+9693,Children of Men,2006-09-22,76000000,70595464,109,7.612,7860,6.2818,en,Science Fiction|Thriller|Action
+96721,Rush,2013-09-02,38000000,90200000,123,7.7,7841,6.1167,en,Drama|Action
+65,8 Mile,2002-11-08,41000000,242875078,111,7.144,7835,5.2427,en,Drama|Music
+619264,The Platform,2019-11-08,1203235,1090116,95,6.972,7829,5.3291,es,Drama|Science Fiction|Thriller
+4247,Scary Movie,2000-07-07,19000000,278023280,88,6.409,7829,93.48,en,Comedy
+32657,Percy Jackson & the Olympians: The Lightning Thief,2010-02-01,95000000,226497209,118,6.213,7823,10.0811,en,Adventure|Fantasy|Family
+13804,Fast & Furious,2009-04-02,85000000,363164265,107,6.691,7811,1.2059,en,Action|Crime|Thriller
+7191,Cloverfield,2008-01-15,25000000,170764026,85,6.711,7804,5.363,en,Action|Thriller|Science Fiction
+587,Big Fish,2003-12-10,70000000,123200000,125,7.758,7776,5.8987,en,Adventure|Fantasy|Drama
+384018,Fast & Furious Presents: Hobbs & Shaw,2019-07-31,200000000,760098996,137,6.833,7766,11.4258,en,Action|Adventure|Comedy
+168672,American Hustle,2013-12-03,40000000,251171807,138,6.856,7751,4.1194,en,Drama|Crime
+1824,50 First Dates,2004-02-13,75000000,196482882,99,6.9,7746,7.0114,en,Comedy|Romance
+59436,Midnight in Paris,2011-05-11,17000000,151119219,94,7.514,7745,4.0205,en,Fantasy|Comedy|Romance
+766507,Prey,2022-08-02,65000000,0,100,7.659,7744,13.8755,en,Thriller|Action|Science Fiction
+363676,Sully,2016-09-07,60000000,240800000,96,7.205,7728,5.6087,en,Drama|History
+223702,Sausage Party,2016-07-11,19000000,140705322,89,5.753,7720,6.0625,en,Adventure|Animation|Comedy|Fantasy
+385128,F9,2021-05-19,200000000,726229501,143,7.0,7718,6.3463,en,Action|Adventure|Crime
+1734,The Mummy Returns,2001-05-04,98000000,443280904,130,6.406,7699,11.1997,en,Adventure|Action|Fantasy
+621,Grease,1978-06-16,6000000,396271103,110,7.4,7675,8.882,en,Romance|Comedy
+14574,The Boy in the Striped Pyjamas,2008-05-07,12500000,20416563,94,7.819,7674,8.2471,en,Drama|War|History
+44826,Hugo,2011-11-22,170000000,185770160,126,7.175,7670,3.8173,en,Adventure|Drama|Family
+44912,Green Lantern,2011-06-14,200000000,219851172,114,5.2,7664,6.2804,en,Adventure|Action|Science Fiction
+310131,The Witch,2016-02-19,4000000,40423945,92,7.0,7655,10.6084,en,Horror
+282035,The Mummy,2017-06-06,125000000,409231607,110,5.5,7650,7.0828,en,Fantasy|Thriller|Action|Adventure|Horror
+75780,Jack Reacher,2012-12-20,60000000,218300000,130,6.665,7644,8.2184,en,Crime|Drama|Thriller|Action
+7326,Juno,2007-12-05,7500000,232372681,96,7.06,7641,4.1381,en,Comedy|Drama|Romance
+324852,Despicable Me 3,2017-06-15,80000000,1034800131,90,6.468,7637,6.8139,en,Action|Animation|Comedy|Family|Adventure
+9615,The Fast and the Furious: Tokyo Drift,2006-06-03,85000000,158964610,104,6.548,7633,2.5859,en,Action|Crime|Drama|Thriller
+956,Mission: Impossible III,2006-04-25,150000000,398479497,126,6.765,7630,6.7776,en,Adventure|Action|Thriller
+62213,Dark Shadows,2012-05-09,150000000,245527149,113,6.1,7617,4.6255,en,Comedy|Fantasy
+65754,The Girl with the Dragon Tattoo,2011-12-14,90000000,232617430,158,7.386,7616,5.0021,en,Thriller|Crime|Mystery
+8909,Wanted,2008-06-19,75000000,342463063,110,6.532,7601,5.1497,en,Action|Thriller|Crime
+955,Mission: Impossible II,2000-05-24,125000000,546388108,123,6.144,7585,6.2309,en,Adventure|Action|Thriller
+9339,Click,2006-06-23,82500000,240685326,107,6.308,7572,6.0868,en,Comedy|Drama|Fantasy
+142,Brokeback Mountain,2005-10-22,14000000,178043761,134,7.8,7566,12.5032,en,Drama|Romance
+718930,Bullet Train,2022-08-03,90000000,239268602,126,7.413,7564,10.0372,en,Action|Comedy|Thriller
+616,The Last Samurai,2003-12-05,140000000,456800000,154,7.607,7547,9.685,en,Drama|Action|War
+376867,Moonlight,2016-10-21,4000000,65046687,111,7.36,7541,7.4213,en,Drama
+49519,The Croods,2013-03-15,135000000,587204668,99,6.94,7537,8.7641,en,Animation|Adventure|Family|Comedy
+18240,The Proposal,2009-06-02,40000000,317400000,108,7.164,7533,15.4615,en,Comedy|Romance|Drama
+398978,The Irishman,2019-11-01,159000000,968853,209,7.577,7523,6.5872,en,Crime|Drama|History
+83542,Cloud Atlas,2012-10-26,102000000,130482868,172,6.895,7522,4.7723,en,Drama|Science Fiction
+427641,Rampage,2018-04-11,120000000,428028233,107,6.447,7519,11.5653,en,Action|Adventure|Science Fiction
+109424,Captain Phillips,2013-10-10,55000000,218791811,134,7.539,7496,7.4414,en,Action|Drama|Thriller
+505642,Black Panther: Wakanda Forever,2022-11-09,250000000,859102154,162,7.0,7481,14.8866,en,Action|Adventure|Science Fiction
+38055,Megamind,2010-10-28,130000000,321885765,96,7.026,7476,10.7236,en,Animation|Action|Comedy|Family|Science Fiction
+322,Mystic River,2003-10-08,25000000,156800000,138,7.745,7469,5.8637,en,Thriller|Crime|Drama|Mystery
+295693,The Boss Baby,2017-03-23,125000000,527965936,97,6.454,7465,2.7665,en,Animation|Comedy|Family
+7345,There Will Be Blood,2007-12-26,25000000,77208711,158,8.1,7465,6.8444,en,Drama
+454983,The Kissing Booth,2018-05-11,0,0,105,7.162,7451,8.8144,en,Romance|Comedy
+10527,Madagascar: Escape 2 Africa,2008-10-30,150000000,603900354,89,6.5,7435,11.2855,en,Adventure|Animation|Comedy|Family
+1487,Hellboy,2004-04-02,66000000,99318987,122,6.677,7434,4.485,en,Fantasy|Action
+492188,Marriage Story,2019-09-28,18000000,333686,137,7.733,7420,3.5598,en,Drama
